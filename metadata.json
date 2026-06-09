@@ -1,0 +1,6 @@
+{
+  "name": "Jurnal Ilmiah & Blog Pribadi",
+  "description": "Platform personal blog dan publikasi jurnal artikel ilmiah interaktif yang dilengkapi Co-pilot Akademik AI berbasis Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
